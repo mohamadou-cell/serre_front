@@ -1,0 +1,112 @@
+#body1{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    justify-content: center;
+    background-image: url('../../assets/serre.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+
+
+
+}
+#body2{
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+}
+#body3{
+    background-color: #ffffffbf;
+    width: auto;
+
+}
+
+.haut{
+    color: rgb(15, 8, 8);
+    font-size: 23px;
+    padding: 7px 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#corps{
+
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    margin: 2rem;
+}
+#wifi{
+    margin-top: 1vh;
+}
+
+#mdp{
+    color: rgb(45, 45, 47);
+    display: flex;
+    justify-content: center;
+}
+.mdp{
+    color: rgb(45, 45, 47);
+
+
+}
+.saisie, #btn{
+    width: 200px;
+    height: 50px;
+}
+#btn{
+    width: 279px;
+    height: 50px;
+    background-color: aqua;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 7px;
+
+}
+#btn a, a.mdp2{
+    text-decoration: none;
+}
+#btn a{
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+}
+#reseau{
+    /* border: 2px solid rgb(255, 0, 81); */
+    margin-top: 5vh;
+}
+#etoile{
+    color: rgb(225, 14, 14);
+}
+#msgerror{
+    color: rgb(225, 14, 14);
+}
+#txt{
+
+    height: 50px;
+}
+.input-text{
+    position: relative;
+    margin-top: 30px}
+
+  .input-text 
+ .bi-eye-slash{
+    position: absolute;
+    right: 10px;
+    top: 47px;
+    font-size:15px;
+    cursor:pointer
+}
+
+ .bi-eye{position: absolute;
+ right: 10px;
+ top: 47px;
+ font-size:15px; cursor:pointer}
+ .cacher{
+    display: none;
+ }

@@ -1,0 +1,118 @@
+[
+    {
+        "date": "2023-03-10",
+        "temperature": "30",
+        "humid_sol": "25",
+        "humid_serre": "22",
+        "luminosite": "150"
+    },
+    {
+        "date": "2023-03-11",
+        "temperature": "30",
+        "humid_sol": "25",
+        "humid_serre": "22",
+        "luminosite": "150"
+    },
+    {
+        "date": "2023-03-12",
+        "temperature": "30",
+        "humid_sol": "25",
+        "humid_serre": "22",
+        "luminosite": "150"
+    },
+    {
+        "date": "2023-03-13",
+        "temperature": "39",
+        "humid_sol": "20",
+        "humid_serre": "28",
+        "luminosite": "210"
+    },
+    {
+        "date": "2023-03-14",
+        "temperature": "34",
+        "humid_sol": "17",
+        "humid_serre": "18",
+        "luminosite": "400"
+    },
+    {
+        "date": "2023-03-15",
+        "temperature": "20",
+        "humid_sol": "28",
+        "humid_serre": "50",
+        "luminosite": "215"
+    },
+    {
+        "date": "2023-03-16",
+        "temperature": "19",
+        "humid_sol": "26",
+        "humid_serre": "34",
+        "luminosite": "103"
+    },
+    {
+        "date": "2023-03-17",
+        "temperature": "35",
+        "humid_sol": "18",
+        "humid_serre": "38",
+        "luminosite": "290"
+    },
+    {
+        "date": "2023-03-18",
+        "temperature": "28",
+        "humid_sol": "19",
+        "humid_serre": "22",
+        "luminosite": "200"
+    },
+    {
+        "date": "2023-03-19",
+        "temperature": "16",
+        "humid_sol": "30",
+        "humid_serre": "33",
+        "luminosite": "301"
+    },
+    {
+        "date": "2023-03-20",
+        "temperature": "58",
+        "humid_sol": "28",
+        "humid_serre": "19",
+        "luminosite": "309"
+    },
+    {
+        "date": "2023-03-21",
+        "temperature": "18",
+        "humid_sol": "27",
+        "humid_serre": "22",
+        "luminosite": "100"
+    },
+    {
+        "date": "2023-03-22",
+        "temperature": "17",
+        "humid_sol": "21",
+        "humid_serre": "25",
+        "luminosite": "127"
+    },
+    {
+        "date": "2023-03-23",
+        "temperature": "14",
+        "humid_sol": "45",
+        "humid_serre": "12",
+        "luminosite": "312"
+    },
+    {
+        "date": "2023-03-24",
+        "temperature": "10",
+        "humid_sol": "13",
+        "humid_serre": "26",
+        "luminosite": "400"
+    },
+    {
+        "date": "2023-03-25",
+        "temperature": "14",
+        "humid_sol": "32",
+        "humid_serre": "28",
+        "luminosite": "208"
+    }
+]
+
+
+
+

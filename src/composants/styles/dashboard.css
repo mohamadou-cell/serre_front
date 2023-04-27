@@ -1,0 +1,166 @@
+
+.card_{
+    border: 0.5px solid rgb(127, 124, 124);
+    box-shadow:  10Px 10px rgba(114, 114, 114, 0.484);
+    padding-left:0px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+   
+    display: flex;
+    justify-content: center;
+}
+div.card.card_{
+    padding: 0;
+    
+}
+.titl{
+    background-color: #35B6FF;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+   
+    }
+    h5{
+      
+        /* background-color: #35B6FF; */
+        color: white;
+       
+        width: 100%;
+        
+    }
+    h4{
+
+        /* background-color: #35B6FF; */
+        color: white;
+      
+        border-radius: 0px 0px 12px 12px;
+        
+    }
+ 
+  .h4{
+    width: inherit;
+    display: flex;
+    justify-content: center;
+  }
+  .img-temp{
+    width: 20%;
+    height: 15%;
+    margin-top: 20px;
+    width: auto;
+  }
+  p.real-time{
+    margin-right: 0;
+    font-weight: bold;
+    font-size: 35px;
+
+  }
+  .humid{
+    display: flex;
+    justify-content: center;
+  }
+  .cont-temp{
+   display: flex;
+   justify-content: center;
+   margin-top: 30px;
+  }
+  .img-humid{
+    width:100%;
+   border-radius:5px 5px 0px 0px ;
+   
+  }
+
+  .container_{
+    margin-top: 5%;
+  }
+ .imga{
+    width: 60px;
+    height: 60px;
+ }
+ .icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+ }
+ .titlee{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px 10px 0px 0px;
+ }
+ .titl{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+ }
+ .action{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+ }
+ .act{
+    width: 30%;
+    border: 2px solid #c0c0c0;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+ }
+ 
+ 
+.imga_{
+   width: 120px;
+   height:120px;
+}
+#toit1, #toit2,#toit3, #arrosage, #ventilateur{
+    width: 50px;
+    height: 30px;
+}
+.parat{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    min-width: 80px;
+}
+
+.arrosage{
+    position: absolute;
+    top:0px;
+    display: none;
+}
+.arro{
+    position: absolute;
+    top:0px;
+   
+}
+.toit-container{
+    position: relative;
+    bottom:60px;
+    right: 50px;
+
+}
+.cacher{
+    display: none;
+  }
+  .cacher{
+    display: none;
+  }
+  .lesBtn{
+    width: 55px;
+    height: 55px;
+  }
+  #radius{
+    border-radius:5px;
+  }
+  .switch_arro{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top:80px;
+    display: flex;
+    
+  }

@@ -1,0 +1,64 @@
+#body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+    gap: 100px;
+}
+#card{
+    border: 0.5px solid rgb(127, 124, 124);
+    box-shadow:  10Px 10px rgba(114, 114, 114, 0.484);
+    height: 60%;
+    padding: 0%;
+    position: fixed;
+}
+#btn{
+    background-color: #35B6FF;
+    
+}
+.titre{
+    background-color: #35B6FF;
+    color: white;
+    font-size: 23px;
+    padding: 7px 60px;
+    border-radius: 10px;
+}
+.lien{
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #35B6FF;
+}
+.imga{
+    height: 15%;
+    width: 15%;
+}
+.activer {
+   display: none;
+}
+.align{
+    display:flex; 
+    flex-direction:column ;
+    justify-content:center ;
+    align-items:center;
+    position: fixed;
+    right: 15%;
+    top: 40%;
+}
+.heure{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.space{
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    border: 0.5px solid rgb(145 133 133 / 41%);
+}
+.cacher{
+    display:none;
+}
